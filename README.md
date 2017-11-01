@@ -13,7 +13,7 @@ Check out the [live version here](https://goo.gl/qCevLH).
 ## Screenshot
 <p align="center">
 <a href="https://goo.gl/qCevLH" target="_blank">
-<img src="src/images/screenshot.jpg">
+<img src="src/images/screenshot.png">
 </a>
 </p>
 
